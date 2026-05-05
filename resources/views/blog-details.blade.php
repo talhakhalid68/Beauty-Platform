@@ -6,6 +6,8 @@
     <meta name="keywords" content="spa treatments, beauty care, health benefits, relaxation techniques, nail care tips" />
 @endsection
 
+
+
 @section('content')
 <!-- Breadcrumb Section -->
 <div class="breadcumb-wrapper" data-bg-src="{{ asset('assets/img/breadcumb/breadcumb-bg.jpg') }}">
